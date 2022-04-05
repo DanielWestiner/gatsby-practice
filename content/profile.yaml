@@ -1,0 +1,29 @@
+- profile:
+  initials: DW
+  name: Daniel Westiner
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Philadelphia, PA
+  relocation: false
+  # company: DW
+  # for_hire: true
+  focus: Web Design and Development
+  # focus_url: http://www.danielwestiner.com
+  about: |
+    I'm a Philadelphia-based full-stack web developer that has recently graduated UPenn's Coding Bootcamp in March 2022. I love learning about web development, web design, and creating projects.  Take a look at some of the projects that I've worked on below.
+  skills:
+    - HTML
+    - CSS
+    - Javascript
+    - Node
+    - MongoDB
+    - React
+  tools:
+    - Boostrap
+    - Git
+    - Express
+  # budget:
+  #   currency: $
+  #   min: 5
+  #   max: 30
+  #   default: 10

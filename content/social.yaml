@@ -1,0 +1,9 @@
+- name: linkedin
+  url: https://www.linkedin.com/in/daniel-westiner
+
+- name: twitter
+  url: https://twitter.com/username
+
+- name: github
+  url: https://github.com/DanielWestiner
+
